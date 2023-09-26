@@ -1,9 +1,9 @@
-var aname = 'Max';
-var age = 30;
-var hasHobbies = true;
+let aname = 'Max';
+let age = 30;
+let  hasHobbies = true;
 
 function summarizeUser(userName, userAge, userHasHobby){
     return ('Name is ' + userName  + ', age is ' + userAge + ' User hobby is ' + userHasHobby);  
 }
 
-console.log(summarizeUser(aname,age,hasHobbies)); /// test
+console.log(summarizeUser(aname,age,hasHobbies)); /// updated with with let
