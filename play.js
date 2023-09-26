@@ -6,4 +6,4 @@ function summarizeUser(userName, userAge, userHasHobby){
     return ('Name is ' + userName  + ', age is ' + userAge + ' User hobby is ' + userHasHobby);  
 }
 
-console.log(summarizeUser(aname,age,hasHobbies));
+console.log(summarizeUser(aname,age,hasHobbies)); /// test
